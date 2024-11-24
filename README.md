@@ -1,4 +1,4 @@
-#### 欢迎！，这是第<img align="middle" src="https://count.getloli.com/get/@:xhdndmm?theme=rule34">次访问
+#### 欢迎！这是第<img align="middle" src="https://count.getloli.com/get/@:xhdndmm?theme=rule34">次访问
 ### **社交主页：**
 -  bilibili: [https://space.bilibili.com/3546576966388461]
 -  网站: [https://xhdndmm.cn/]
