@@ -5,7 +5,7 @@
 
 
 ### **技术栈:**
-[![My Skills](https://skillicons.dev/icons?i=blender,cloudflare,debian,github,ps,pr,py,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,blender,cloudflare,debian,git,github,linux,ps,pr,py,vscode,windows)](https://skillicons.dev)
 
 ### 开源项目
 
