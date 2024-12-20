@@ -11,6 +11,8 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=miaobox
 )](https://github.com/xhdndmm/miaobox)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=chat
+)](https://github.com/xhdndmm/chat)
 <br><br><br>
 
 ### GitHub Stats
