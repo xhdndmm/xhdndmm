@@ -10,6 +10,7 @@
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=miaobox)](https://github.com/xhdndmm/miaobox)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=chat)](https://github.com/xhdndmm/chat)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=cat-message)](https://github.com/xhdndmm/cat-message)
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=xhdndmm&theme=github_dark&show_icons=true&show=reviews&hide=contribs&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xhdndmm&layout=compact&theme=github_dark&hide_border=true)
