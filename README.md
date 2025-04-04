@@ -4,7 +4,8 @@
 ### **社交主页：**
 -  bilibili: [https://space.bilibili.com/3546576966388461]
 -  Telegram频道：[https://t.me/xhdndmmpd]
--  Twitter：[https://x.com/home]
+-  Twitter：[https://x.com/xhdndmm]
+-  YouYube：[https://www.youtube.com/@xhdndmm]
 ### **技术栈:**
 [![My Skills](https://skillicons.dev/icons?i=arch,blender,cloudflare,debian,git,github,linux,ps,pr,py,vscode,windows)](https://skillicons.dev)
 ### 开源项目
