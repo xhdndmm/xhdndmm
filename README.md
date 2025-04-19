@@ -13,5 +13,11 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=chat)](https://github.com/xhdndmm/chat)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=cat-message)](https://github.com/xhdndmm/cat-message)
 ### GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>  
+
 ![](https://github-readme-stats.vercel.app/api?username=xhdndmm&theme=github_dark&show_icons=true&show=reviews&hide=contribs&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xhdndmm&layout=compact&theme=github_dark&hide_border=true)
