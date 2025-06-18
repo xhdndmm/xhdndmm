@@ -7,7 +7,7 @@
 -  Twitter：[https://x.com/xhdndmm]
 -  YouYube：[https://www.youtube.com/@xhdndmm]
 ### **技术栈:**
-[![My Skills](https://skillicons.dev/icons?i=arch,blender,cloudflare,debian,git,github,linux,ps,pr,py,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,blender,cloudflare,debian,git,github,linux,ps,pr,py,vscode,windows)](https://skillicons.dev)
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=miaobox)](https://github.com/xhdndmm/miaobox)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=chat)](https://github.com/xhdndmm/chat)
