@@ -9,9 +9,10 @@
 ### **技术栈:**
 [![My Skills](https://skillicons.dev/icons?i=bash,blender,cloudflare,debian,git,github,linux,ps,pr,py,vscode,windows)](https://skillicons.dev)
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=miaobox)](https://github.com/xhdndmm/miaobox)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=chat)](https://github.com/xhdndmm/chat)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=cat-message)](https://github.com/xhdndmm/cat-message)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=miaobox)](https://github.com/cat-cat-studio/miaobox)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=chat)](https://github.com/cat-cat-studio/chat)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=cat-message)](https://github.com/cat-cat-studio/cat-message)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=wifitnt)](https://github.com/xhdndmm/wifitnt)
 ### GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhdndmm/xhdndmm/output/github-contribution-grid-snake-dark.svg" />
