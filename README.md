@@ -13,6 +13,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=chat)](https://github.com/cat-cat-studio/chat)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=cat-message)](https://github.com/cat-cat-studio/cat-message)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=wifitnt)](https://github.com/xhdndmm/wifitnt)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=ip-search-tool)](https://github.com/xhdndmm/ip-search-tool)
 ### GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhdndmm/xhdndmm/output/github-contribution-grid-snake-dark.svg" />
