@@ -9,9 +9,6 @@
 ### **技术栈:**
 [![My Skills](https://skillicons.dev/icons?i=bash,blender,cloudflare,debian,git,github,linux,ps,pr,py,vscode,windows)](https://skillicons.dev)
 ### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=miaobox)](https://github.com/cat-cat-studio/miaobox)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=chat)](https://github.com/cat-cat-studio/chat)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=cat-message)](https://github.com/cat-cat-studio/cat-message)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=wifitnt)](https://github.com/xhdndmm/wifitnt)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=ip-search-tool)](https://github.com/xhdndmm/ip-search-tool)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=mcbackup)](https://github.com/cat-cat-studio//mcbackup)  
