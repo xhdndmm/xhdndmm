@@ -11,7 +11,8 @@
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=wifitnt)](https://github.com/xhdndmm/wifitnt)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=ip-search-tool)](https://github.com/xhdndmm/ip-search-tool)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=cat-cat-studio&repo=mcbackup)](https://github.com/cat-cat-studio//mcbackup)  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=mcbackup)](https://github.com/xhdndmm/mcbackup)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=meow-chat)](https://github.com/xhdndmm/meow-chat)  
 ### GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhdndmm/xhdndmm/output/github-contribution-grid-snake-dark.svg" />
