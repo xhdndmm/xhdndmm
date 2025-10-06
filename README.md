@@ -9,7 +9,7 @@
 -  Twitter：[https://x.com/xhdndmm]
 -  YouYube：[https://www.youtube.com/@xhdndmm]
 ### **技术栈:**
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,blender,cloudflare,debian,git,github,linux,md,nginx,py,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,blender,cloudflare,debian,git,github,linux,md,nginx,pycharm,py,vscode,wordpress)](https://skillicons.dev)
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=wifitnt)](https://github.com/xhdndmm/wifitnt)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=ip-search-tool)](https://github.com/xhdndmm/ip-search-tool)
