@@ -15,6 +15,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=ip-search-tool)](https://github.com/xhdndmm/ip-search-tool)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=mcbackup)](https://github.com/xhdndmm/mcbackup)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=meow-chat)](https://github.com/xhdndmm/meow-chat)  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=one_file_search_engine)](https://github.com/xhdndmm/one_file_search_engine) 
 ### GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhdndmm/xhdndmm/output/github-contribution-grid-snake-dark.svg" />
