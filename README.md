@@ -1,8 +1,8 @@
 #### 欢迎！这是第<img align="middle" src="https://count.getloli.com/@xhdndmm?name=xhdndmm&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">次访问
 ### **网站**
--  [https://xhdndmm.cn/]
+-  [https://xhdndmm.net/]
 ### **博客**
--  [https://blog.xhdndmm.cn/]
+-  [https://blog.xhdndmm.net/]
 ### **社交主页：**
 -  bilibili: [https://space.bilibili.com/3546576966388461]
 -  Telegram频道：[https://t.me/xhdndmmpd]
