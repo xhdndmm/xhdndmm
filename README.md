@@ -1,4 +1,4 @@
-#### Welcome! This is the <img align="middle" src="https://count.getloli.com/@xhdndmm?name=xhdndmm&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"> th visit.
+#### Welcome! This is the <img align="middle" src="https://count.getloli.com/@xhdndmm?name=xhdndmm&darkmode=auto"> th visit.
 ### **Website**
 -  [https://xhdndmm.net/]
 ### **Blog**
