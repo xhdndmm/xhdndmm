@@ -6,7 +6,7 @@
 ### **Skills:**
 ![](https://skillicons.dev/icons?i=arch,bash,blender,cloudflare,debian,docker,flask,git,github)
 
-![](https://skillicons.dev/icons?i=gmail,linux,md,nginx,py,twitter,vscode,wordpressd)
+![](https://skillicons.dev/icons?i=gmail,linux,md,nginx,py,twitter,vscode,wordpress)
 ### **Donate**
 - [https://afdian.com/a/xhdndmm]
 ### **Projects**
