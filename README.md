@@ -9,11 +9,6 @@
 ![](https://skillicons.dev/icons?i=gmail,go,linux,md,nginx,py,twitter,vscode,wordpress)
 ### **Donate**
 - [https://afdian.com/a/xhdndmm]
-### **Projects**
-|||
-|--|--|
-|<a href="https://github.com/123panNextGen/123pan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan"></a>|<a href="https://github.com/xhdndmm/mcbackup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=mcbackup"></a>|
-|<a href="https://github.com/xhdndmm/one_file_search_engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=one_file_search_engine"></a> | <a href="https://github.com/xhdndmm/skill-test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xhdndmm&repo=skill-test"></a>|
 ### **GitHub Stats**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhdndmm/xhdndmm/output/github-contribution-grid-snake-dark.svg" />
