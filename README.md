@@ -4,9 +4,9 @@
 ### **Blog**
 - [https://blog.xhdndmm.net/]
 ### **Skills:**
-![](https://skillicons.dev/icons?i=arch,bash,blender,cloudflare,debian,docker,flask,git,github)
+![](https://skillicons.dev/icons?i=arch,bash,cloudflare,debian,docker,flask,git,github,gmail)
 
-![](https://skillicons.dev/icons?i=gmail,go,linux,md,nginx,py,twitter,vscode,wordpress)
+![](https://skillicons.dev/icons?i=go,linux,md,nginx,py,twitter,ubuntu,vscode,wordpress)
 ### **Donate**
 - [https://afdian.com/a/xhdndmm]
 ### **GitHub Stats**
